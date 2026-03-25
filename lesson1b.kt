@@ -16,3 +16,13 @@ fun main(){
 
 // create a file call it assignment1.kt => create an addition and substraction programs inside of the same file
 // Research on conditional staements in kotlin
+
+// the if statement -> executes a block of code only if a condition is true
+// fun main(){
+//     val num = 10
+
+// if (num > 0) {
+//     println("The number is positive")
+// }
+
+// }
